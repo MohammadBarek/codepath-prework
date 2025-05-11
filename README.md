@@ -14,17 +14,16 @@ The following **required** functionality is completed:
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
  
-## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
 
+Telegram 
+Disappearing messages 
+Colorful and nice wallpapers for bakcround 
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+i was challeged not paying close attention to the instructions.
 
 ## License
 
