@@ -25,6 +25,8 @@ Colorful and nice wallpapers for bakcround
 
 i was challeged not paying close attention to the instructions.
 
+I would lik to build an app not specific but it can by any kind of app that users could have more accesss to customise the app for their preference.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
